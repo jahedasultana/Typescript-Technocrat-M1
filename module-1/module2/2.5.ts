@@ -30,6 +30,8 @@
      
     const res10 = createArrayWithTuple<string, number>("Bangladesh", 222);
         const res11 = createArrayWithTuple<string, {name: string}>("Bangladesh", {name: "Asia"});
+
+        
 const addCourseToStudent = <T>(student : T) => {
     const course = "Next Level Web Development"
     
