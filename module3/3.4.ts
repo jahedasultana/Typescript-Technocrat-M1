@@ -1,5 +1,5 @@
 {
-    // 
+    // instanceog guard
     class Animal {
         name: string;
         species: string;
