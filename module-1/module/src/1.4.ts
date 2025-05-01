@@ -31,4 +31,4 @@ eligibleRollList.push(4);
 let coordinates : [number,number] = [1,5]
 
 let ageName : [number, string, boolean] = [50,'Mr.x', true]
-ageName[0]=67
+ageName[0]=67 
