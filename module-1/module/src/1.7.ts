@@ -4,8 +4,6 @@
     // destructuring
 
 
-
-
     // learn spread operator
 
     const bros1: string[] =["sathi","sumu","sumi"];

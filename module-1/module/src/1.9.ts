@@ -5,7 +5,7 @@
         name: string;
         age: number;
         gender: string;
-        contactNo: string;
+        contactNo?: string;
         address: string;
        
 
