@@ -1,12 +1,14 @@
 {
     // 
-// Interface
+
 
 type User1 = {
     name: string;
     age: number;
 };
 
+
+// Interface
 interface User2 {
     name: string;
     age: number;

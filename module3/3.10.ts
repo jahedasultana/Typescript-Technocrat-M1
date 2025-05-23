@@ -1,5 +1,5 @@
 {
-    // access modifiers
+    //  Encapsulation in OOP
     class BankAccount{
         public readonly id: number;
         public name: string;
